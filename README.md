@@ -1,6 +1,5 @@
 # Sign-Language-Translator
 ## Requirements
-Markup:
 * python 3.7+;
 * OpenCV
 * Keras

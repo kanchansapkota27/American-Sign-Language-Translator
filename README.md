@@ -1,5 +1,5 @@
 # Sign-Language-Translator
-##Requirements
+## Requirements
 1.OpenCV
 2.Keras
 3.Numpy
